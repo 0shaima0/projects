@@ -1,1 +1,1 @@
-# projects
+An AI-powered environmental sound classification system for smart homes using CNN. It detects critical sounds like baby crying, smoke alarms, and glass breaking, optimized for real-time edge devices via TFLite.
